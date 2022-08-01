@@ -1,0 +1,24 @@
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\bin\Debug\Namaz Vakti.exe.config
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\bin\Debug\Namaz Vakti.exe
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\bin\Debug\Namaz Vakti.pdb
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz_Vakti.Form1.resources
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz_Vakti.Properties.Resources.resources
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.csproj.GenerateResource.cache
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.csproj.CoreCompileInputs.cache
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.exe
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.pdb
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\bin\Debug\Namaz Vakti.exe.config
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\bin\Debug\Namaz Vakti.exe
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\bin\Debug\Namaz Vakti.pdb
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.csprojAssemblyReference.cache
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz_Vakti.Form1.resources
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz_Vakti.Properties.Resources.resources
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.csproj.GenerateResource.cache
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.csproj.CoreCompileInputs.cache
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.exe
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.pdb
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Interop.WMPLib.dll
+C:\Users\BALABAN\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.csproj.ResolveComReference.cache
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Interop.WMPLib.dll
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.csproj.ResolveComReference.cache
+C:\Users\ebalaban\source\repos\Namaz Vakti\Namaz Vakti\obj\Debug\Namaz Vakti.csprojAssemblyReference.cache

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Namaz Vakti", "Namaz Vakti\Namaz Vakti.csproj", "{09AB4EB9-6D76-47CF-B370-55BFFE6EDC25}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09AB4EB9-6D76-47CF-B370-55BFFE6EDC25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09AB4EB9-6D76-47CF-B370-55BFFE6EDC25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09AB4EB9-6D76-47CF-B370-55BFFE6EDC25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09AB4EB9-6D76-47CF-B370-55BFFE6EDC25}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F80988F-5BFE-4675-8193-DDC94C7598A7}
+	EndGlobalSection
+EndGlobal
